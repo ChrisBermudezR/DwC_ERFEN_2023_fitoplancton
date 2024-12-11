@@ -1,0 +1,1 @@
+npp_0<-raster::stack("net_primary_productivity_of_biomass_expressed_as_carbon_0m.nc")

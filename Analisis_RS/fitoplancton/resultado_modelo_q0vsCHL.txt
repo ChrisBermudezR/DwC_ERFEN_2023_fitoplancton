@@ -1,0 +1,96 @@
+[1] "Resultados de la correlacion q0"
+
+	Spearman's rank correlation rho
+
+data:  chl_total$value and chl_total$q0
+S = 185959, p-value = 0.05308
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+     rho 
+0.184105 
+
+[1] "Resultados del Modelo q0"
+
+Call:
+lm(formula = chl_total$value ~ chl_total$q0)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.21283 -0.11677 -0.07191  0.11722  0.77403 
+
+Coefficients:
+              Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)  0.3087138  0.0237096   13.02 <0.0000000000000002 ***
+chl_total$q0 0.0008755  0.0019907    0.44               0.661    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.179 on 109 degrees of freedom
+  (2 observations deleted due to missingness)
+Multiple R-squared:  0.001771,	Adjusted R-squared:  -0.007387 
+F-statistic: 0.1934 on 1 and 109 DF,  p-value: 0.661
+
+[1] "Resultados de la correlacion q1"
+
+	Spearman's rank correlation rho
+
+data:  chl_total$value and chl_total$q1
+S = 204589, p-value = 0.285
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.1023633 
+
+[1] "Resultados del Modelo q1"
+
+Call:
+lm(formula = chl_total$value ~ chl_total$q1)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.21371 -0.11807 -0.07234  0.12179  0.77443 
+
+Coefficients:
+             Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)  0.306262   0.027619  11.089 <0.0000000000000002 ***
+chl_total$q1 0.001802   0.004035   0.447               0.656    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.179 on 109 degrees of freedom
+  (2 observations deleted due to missingness)
+Multiple R-squared:  0.001827,	Adjusted R-squared:  -0.007331 
+F-statistic: 0.1995 on 1 and 109 DF,  p-value: 0.656
+
+[1] "Resultados de la correlacion q2"
+
+	Spearman's rank correlation rho
+
+data:  chl_total$value and chl_total$q2
+S = 202112, p-value = 0.2367
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.1132317 
+
+[1] "Resultados del Modelo q2"
+
+Call:
+lm(formula = chl_total$value ~ chl_total$q2)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.21422 -0.11982 -0.07232  0.12133  0.77537 
+
+Coefficients:
+             Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)  0.303218   0.030253   10.02 <0.0000000000000002 ***
+chl_total$q2 0.002907   0.005701    0.51               0.611    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.179 on 109 degrees of freedom
+  (2 observations deleted due to missingness)
+Multiple R-squared:  0.002381,	Adjusted R-squared:  -0.006772 
+F-statistic: 0.2601 on 1 and 109 DF,  p-value: 0.6111
+

@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Subdataset name="CHL">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">65</MDI>
+          <MDI key="STATISTICS_MEAN">0.30148844377672</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.0336431004107</MDI>
+          <MDI key="STATISTICS_STDDEV">1.1072204015761</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_uncertainty">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">10388</MDI>
+          <MDI key="STATISTICS_MEAN">3722.4039971183</MDI>
+          <MDI key="STATISTICS_MINIMUM">500</MDI>
+          <MDI key="STATISTICS_STDDEV">789.61797489512</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="flags">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">2</MDI>
+          <MDI key="STATISTICS_MEAN">0.89797141335229</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">0.76359836531623</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

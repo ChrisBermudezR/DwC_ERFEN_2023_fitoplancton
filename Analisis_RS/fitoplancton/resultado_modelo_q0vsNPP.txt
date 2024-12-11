@@ -1,0 +1,93 @@
+[1] "Resultados de la correlacion q0"
+
+	Spearman's rank correlation rho
+
+data:  total$value and total$q0
+S = 186363, p-value = 0.01658
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.2249846 
+
+[1] "Resultados del Modelo q0"
+
+Call:
+lm(formula = total$value ~ total$q0)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-887.02 -171.13  -78.56   21.30 1715.90 
+
+Coefficients:
+            Estimate Std. Error t value         Pr(>|t|)    
+(Intercept)  197.996     50.983   3.884         0.000175 ***
+total$q0      33.420      4.311   7.752 0.00000000000467 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 388.4 on 111 degrees of freedom
+Multiple R-squared:  0.3512,	Adjusted R-squared:  0.3454 
+F-statistic:  60.1 on 1 and 111 DF,  p-value: 0.000000000004667
+
+[1] "Resultados de la correlacion q1"
+
+	Spearman's rank correlation rho
+
+data:  total$value and total$q1
+S = 173352, p-value = 0.002757
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.2790953 
+
+[1] "Resultados del Modelo q1"
+
+Call:
+lm(formula = total$value ~ total$q1)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-692.73 -221.90  -44.11   32.65 1686.04 
+
+Coefficients:
+            Estimate Std. Error t value       Pr(>|t|)    
+(Intercept)   143.70      62.25   2.309         0.0228 *  
+total$q1       61.47       9.15   6.719 0.000000000821 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 406.6 on 111 degrees of freedom
+Multiple R-squared:  0.2891,	Adjusted R-squared:  0.2827 
+F-statistic: 45.14 on 1 and 111 DF,  p-value: 0.0000000008209
+
+[1] "Resultados de la correlacion q2"
+
+	Spearman's rank correlation rho
+
+data:  total$value and total$q2
+S = 181337, p-value = 0.008661
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.2458857 
+
+[1] "Resultados del Modelo q2"
+
+Call:
+lm(formula = total$value ~ total$q2)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-674.53 -210.70  -74.12    9.98 1635.60 
+
+Coefficients:
+            Estimate Std. Error t value   Pr(>|t|)    
+(Intercept)   169.98      73.00   2.328     0.0217 *  
+total$q2       69.53      13.84   5.024 0.00000195 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 435.3 on 111 degrees of freedom
+Multiple R-squared:  0.1853,	Adjusted R-squared:  0.1779 
+F-statistic: 25.24 on 1 and 111 DF,  p-value: 0.000001949
+
