@@ -1,0 +1,273 @@
+---
+title: "Especies de fitoplancton colectadas en el Crucero Oceanográfico Cuenca Pacífica Colombiana (CO-CPC) LXIII - ERFEN XXVI de octubre-noviembre del 2023"
+
+author: "Quintana-Manotas, Humberto Luis^1^ & Bermúdez-Rivas, Christian^2^ & Castrillón, Fredy Albeiro^3^ & Ortiz-Mieles, Laura Carolina^4^"
+
+output:
+  bookdown::word_document2:
+    reference_docx: Templete-DataPaper.docx
+    number_sections: false
+    link-citations: yes
+    language:
+      label:
+        fig: 'Figura '
+        tab: 'Tabla '
+        eq: 'Ecuación '
+keep_tex: true
+csl: biota.csl
+bibliography: bibliografia.bib
+
+df_print: kable
+linkcolor: black
+---
+
+
+
+
+^1^  Centro de Investigaciones Oceanográfica e Hidrográfica del Pacífico (CCCP). Sección de Protección del Medio Marino. Capitanía de Puerto de Tumaco, Vía al Morro, Tumaco, Nariño. [hquintero\@dimar.mil.co](mailto:hquintero@dimar.mil.co){.email}, ORCID: 0000-0002-1700-4476 ; ^2^Centro de Investigaciones Oceanográfica e Hidrográfica del Pacífico (CCCP). Sección de Protección del Medio Marino. Capitanía de Puerto de Tumaco, Vía al Morro, Tumaco, Nariño. [cbermudezr\@dimar.mil.co](mailto:cbermudezr@dimar.mil.co){.email}, ORCID: 0000-0002-7363-7251; ^3^ Centro de Investigaciones Oceanográfica e Hidrográfica del Pacífico (CCCP). Sección de Laboratorios. Capitanía de Puerto de Tumaco, Vía al Morro, Tumaco, Nariño. [fcastrillon\@dimar.mil.co](mailto:fcastrillon@dimar.mil.co){.email} ORCID:0000-0003-2815-6122; ^4^ Centro de Investigaciones Oceanográfica e Hidrográfica del Pacífico (CCCP). Sección de Laboratorios. Capitanía de Puerto de Tumaco, Vía al Morro, Tumaco, Nariño. [lortiz\@dimar.mil.co](mailto:lortiz@dimar.mil.co){.email} ORCID:0009-0003-1774-9122
+
+
+**Autor de correspondencia:**[cbermudezr\@dimar.mil.co](mailto: cbermudezr@dimar.mil.co){.email}
+
+**Resúmen**
+
+
+**Palabras clave:** 
+
+**Abstract**
+
+
+
+**Keys words:** 
+
+# INTRODUCCIÓN
+
+El Fenómeno de El Niño es un fenómeno climático que ocurre cada pocos años y tiene un impacto significativo en el océano y sus ecosistemas. El Niño se caracteriza por un calentamiento de las aguas superficiales en el este del Océano Pacífico, lo que puede llevar a cambios en las corrientes oceánicas, los patrones climáticos y la vida marina. 
+
+Dentro de la provincia del Pacífico Oriental Tropical (POT), la ecorregión de la Ensenada de Panamá (Spalding et al., 2007) se caracteriza por la influencia temporal de la migración de la zona de convergencia intertropical y la influencia de dos chorros de viento temporales llamados el chorro de Panamá el cual se presenta en la temporada de enero-abril, y el chorro del Chocó que se presenta en la temporada de mayo-noviembre (Torres et al., 2023). La variabilidad interanual en esta área también se encuentra influida por el Fenómeno El Niño-Oscilación del Sur (ENOS), el cual tiene un impacto directo en los patrones de temperatura, salinidad, precipitaciones y productividad de la región. Durante la fase cálida de ENOS, la ecorregión experimenta la influencia de la migración de la piscina cálida del Pacífico Occidental, lo que resulta en un aumento de la temperatura superficial del mar, una mayor profundización de la termoclina y un impacto negativo en la productividad primaria de la zona (Torres et al., 2023). Por otro lado, durante la fase fría del ENOS, las condiciones normales se refuerzan, lo que lleva a un enfriamiento de la superficie del mar y al surgimiento de la termoclina (Torres et al., 2023). 
+
+Se han establecido conexiones entre las condiciones y eventos del ENOS con la productividad primaria y la abundancia del plancton en general. Durante épocas de condiciones cálidas y eventos "El Niño", se ha observado una tendencia a la disminución de la productividad primaria, un cambio en la composición del fitoplancton que incluye una mayor presencia de especies de dinoflagelados propias de aguas cálidas, así como una reducción en el volumen y la abundancia del zooplancton. En lo que respecta al necton, estas condiciones provocan alteraciones en la distribución de los peces y algunos invertebrados, lo que a su vez afecta a consumidores de niveles tróficos superiores como los cetáceos y las aves marinas. Por otra parte, la fase fría del ENOS ha recibido menos atención en términos de su influencia en las variables biológicas, posiblemente debido a que sus efectos no resultan tan perjudiciales para estas variables en comparación con los impactos de "El Niño" (Wang & Fiedler, 2006). Se ha constatado que, en ocasiones, cuando se presentan las condiciones de "La Niña", se refuerzan las condiciones de surgencia en las costas de Suramérica, lo que, a su vez, fortalece la productividad en la región, favoreciendo esto el aumento de la biomasa zooplanctónica y a su vez el aumento de la pesca.
+
+En este informe no se pretende entender la relación entre el ENSO y las variables biológicas, pero si registrar y describir el comportamiento de las magnitudes de algunas variables ecológicas para los ensambles del fitoplancton y el zooplancton durante un período particular de la oscilación, en cuatro estaciones que pertenecen al transecto latitudinal planteado para el análisis de las variables biológicas del estudio regional del Fenómeno de El Niño. 
+
+
+## Datos del proyecto
+
+### Título.
+
+
+
+### Nombre del investigador principal.
+Christian Bermúdez Rivas
+
+### Fuentes de financiación.
+
+
+Dirección General Marítima, Armada Nacional
+
+### Descripción del área de estudio.
+
+
+
+### Descripción del proyecto.
+
+
+
+## Cobertura taxonómica.
+
+### Descripción.
+
+
+### Categorías.
+
+**Ordenes:** 
+
+
+**Familias:**
+
+
+**Géneros:** 
+
+
+
+## Cobertura geográfica.
+
+### Descripción.
+
+
+### Coordenadas.
+
+
+## Cobertura Temporal.
+
+
+
+# Materiales y Métodos
+
+## Área de Estudio.
+
+
+## Descripción del muestreo.
+
+#### Fase de Campo.
+
+
+
+#### Fase de Laboratorio.
+
+
+#### Fase de Análisis.
+
+
+# Control de Calidad.
+
+
+La recolección de las muestras siguió el protocolo delineado en el documento "*Toma de Muestras*" bajo el código **M5-00-PRO-027** del Sistema de Gestión de Laboratorios de la Dirección General Marítima (SGL-DIMAR), el cual se basa en los procedimientos establecidos en la Parte 10200 B *Sample Collection* de los *Standard Methods for Examination of Water and Wastewater* [@lipps_standard_2023]. Posteriormente, las muestras fueron fijadas con solución de Lugol siguiendo las directrices de @lipps_standard_2023 para garantizar su preservación.
+
+Por otro lado, en el laboratorio, la revisión de las muestras se llevó a cabo conforme al protocolo descrito en el documento "*Determinación de la Densidad del Fitoplancton*" identificado con el código **M5-00-PRO-094** del Sistema de Gestión de Laboratorios de la Dirección General Marítima (SGL-DIMAR). Este procedimiento se fundamenta en los protocolos establecidos en la Parte 10200 F *Phytoplankton Counting Techniques* del *Standard Methods for Examination of Water and Wastewater* [@lipps_standard_2023].
+
+Todos los registros del conteo primario para cada muestra se hicieron en el formato "*Datos primarios para el análisis de densidad de plancton y macroinvertebrados bentónicos*" identificado con el código **M5-00-FOR-136**. Para el calculo de la densidad se usó la ecuación propuesta por @lipps_standard_2023 en la parte 10200 F-2 "*Counting Procedures*" para la técnica de conteo por campos.
+
+$$
+Cél \ mL^{-1} = C * 1000 mm^{3}/A * D * F
+$$
+donde:
+
+$C$ = número de células contados en la muestra concentrada, \
+$A$ = área del campo en $mm^{2}$, \
+$D$ = profundidad de un campo (en la cámara *Sedgwick-Rafter*) en $mm$, \
+$f$ = número de campos contados.\
+
+Una vez obtenida la densidad de células por $mL$ en la muestra concentrada se procedió a calcular la densidad en el agua marina con la siguiente ecuación:
+
+
+$$
+Cél \ L^{-1} = Cél \ mL^{-1} * V'/ V'' * n * V'''
+$$
+donde:
+
+$Cél \ L^{-1}$ = densidad de células en un $mL$ de muestra concentrada,\
+$V'$ = volumen de la muestra concentrada $mL$,\
+$V''$ = volumen de cada alícuota $mL$,\
+$n$ = número de alícuotas,\
+$V'''$ = volumen concentrado de la muestra en $L$.\
+
+Una vez obtenido el conteo se aplicaron las ecuaciones anteriores a través de una función creada con el lenguaje de programación en R [@RTeam2008] teniendo en cuenta las variables antes descritas.
+
+Para la depuración de la identificación algunos de los géneros se determinaron basados en @hasle1996identifying, @tomas1997identifying y @tapia2016fitoplancton y para la  clasificación taxonómica, se realizó una verificación de los nombres con la información del Registro Mundial de Especies Marinas – *WoRMS* [@WoRMS20240319] a través de la herramienta *Taxon Match*  y con el "*Backbone*" del *Global information Facility* - *Gbif* a través de un *script* desarrollado en R [@RTeam2008] utilizando el paquete "*worrms*" [@worrms2023] y los paquetes "*rgbif*" [@rgbif2024] y "*inborutils*" [@inborutils2023] respectivamente. 
+
+Para la estructuración de los datos bajo el estándar *Darwin Core* y los metadatos bajo el estándar *Ecological Metadata Languaje* se crearon *scripts* en R donde se aseguró la calidad de la entrada de datos en cada uno de los atributos y la validación de los datos de salida con el paquete "*validate*" [@validate2021] de @RTeam2008. Posterior a esto se realizó una validación de los archivos en el *data validator* del Gbif. Una vez validados los datos e integrados los archivos estos se publicaron utilizando la herramienta de publicación integrada – IPT del Gbif.
+
+Todos los *scripts* utilizados para validar e integrar los datos en el *Darwin Core* están disponibles en el siguiente repositorio de *GitHub*: [https://github.com/ChrisBermudezR/DwC_FitoExPacifico2018](https://github.com/ChrisBermudezR/DwC_FitoExPacifico2018)
+
+
+## Descripción de la metodología paso a paso.
+
+  1. Una vez terminada la fase de campo y de análisis de laboratorio los datos fisicoquímicos y biológicos se organizaron en matrices en una hoja de cálculo para ser entregados al *Centro Colombiano de Datos Oceanográficos - CECOLDO* de la Dirección General Marítima siguiendo la *Guía de Normalización de Datos Oceanográficos y Marinos*  [@ortizRuby2008]. 
+  
+  2. A partir de estas matrices normalizadas, los datos fueron extraídos con una serie de *scripts* desarrollados en R [@RTeam2008] para luego ser normalizados bajo el estandar *Darwin Core* siguiendo las recomendaciones de la Herramienta de publicación Integrada - IPT (*Integrated Publishing Tool* - *IPT*) y el *Sistema de información de Biodiversidad Marina* de Colombia. Debido a que el formato de normalización de los datos bajo la guía del CECOLDO es un formato de tipo *wide*, en los *scripts* de R se diseñó un programa para transformar los datos a un formato *long* el cuál es el que usa el formato *Darwin Core*. Esta transformación se realizó con el comando *pivot_longer* del paquete *tidyr* [@tidyr2024] de R [@RTeam2008].
+  
+  3. Todos los cálculos de densidad de los géneros de fitoplancton se realizaron a partir de una función creada en R [@RTeam2008] la cuál fue previamente validada en laboratorio con datos de estudios anteriores.
+  
+  4. Una vez realizado las transformaciones de los datos y los cálculos necesarios, las tablas con los datos de colecta, conteos, identificación taxonómica y medidas de las variables se unieron a través de los identificadores *fieldNumber*, *verbatimIdentification* y *eventID*, para luego ser exportadas en los archivos correspondientes de *occurrence*, *event* y *measurementOrFacts*. 
+  
+  5. Para la producción de los metadatos se desarrolló un *script* en R utilizando el paquete *EML* [@EML2024], con el cual se extrajeron los datos necesarios para hacer la documentación.
+
+
+# Resultados
+
+## Descripción de los conjuntos de datos.
+
+
+
+
+
+**URL del recurso.** Para acceder a la última versión del conjunto de datos: \
+**IPT.** (URL del recurso publicado a través del IPT) \
+**Portal de datos.** (URL del recurso publicado a través del Portal del SiB Colombia) \
+**Portal GBIF.** (URL del recurso publicado a través del Portal de GBIF) \
+**Nombre.** Géneros de fitoplancton obtenidos en los eventos de pleamar y bajamar en la Expedición Pacífico 2018 - Distrito de Manejo Integrado (DNMI) Cabo Manglares. \
+**Idioma.** Español\
+**Codificación de caracteres.** UTF-8
+**URL del archivo.** Para acceder a la versión del conjunto de datos descrita en este artículo: \
+(URL al recurso en el Editor de Manuscritos de la revista) \
+**Formato del archivo.** Darwin Core \
+**Versión del formato del archivo.** 1.0 \
+**Nivel de jerarquía.** Dataset \
+**Fecha de publicación de los datos.** AAAA-MM-DD \
+**Idioma de los metadatos.** Español \
+**Fecha de creación de los metadatos.** 2021-09-21 \
+**Licencia de uso.** Extraída del recurso publicado a través del SiB Colombia. \
+
+
+
+
+
+
+
+# Agradecimientos
+
+Los autores agradecen al Ministerio de Ciencia Tecnología e Innovación (Colciencias en la fecha), a la Comisión Colombiana del Océano, a la Logística de la Expedición Científica Pacífico Cabo Manglares - 2018, a la Dirección General Marítima, a la Armada Nacional, a la tripulación del ARC 7 de Agosto por su hospitalidad y servicio, a Parques Nacionales por el acceso al área protegida y al Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico por la financiación de este proyecto.
+
+# Referencias
+
+::: {#refs}
+:::
+
+# Figuras
+
+
+
+# Tablas
+
+Tabla 2. Abundancias de los géneros en el total de las muestras y en las muestras del colectadas en la pleamar y bajamar en el Distrito Nacional de Manejo Integrado de Cabo Manglares, Tumaco, Nariño.
+
+| **Géneros**                   | **Total**   | **Pleamar** | **Bajamar**  |
+|:---------------------------|:---------:|:---------:|:----------:|
+| *Skeletonema*               | 478540  | 195748  | 282792   |
+| *Chaetoceros*               | 104600  | 47530   | 57070    |
+| *Thalassionema*             | 27908   | 7087    | 20821    |
+| *Coscinodiscus*             | 16548   | 4100    | 12448    |
+| *Bacillaria paxillifer*      | 16520   | 4736    | 11784    |
+| *Odontella*                 | 13410   | 7102    | 6308     |
+| *Pseudonizschia*            | 12051   | 2847    | 9204     |
+| *Lithodesmium*              | 10959   | 4405    | 6554     |
+| *Rhizosolenia*              | 7045    | 2954    | 4091     |
+| *Thalassiosira*             | 4119    | 1629    | 2490     |
+| *Ditylum*                   | 3505    | 1487    | 2018     |
+| *Asterionellopsis*          | 3279    | 545     | 2734     |
+| *Navicula*                  | 3084    | 526     | 2558     |
+| *Lioloma*                   | 1864    | 586     | 1278     |
+| *Hemiaulus*                 | 1548    | 437     | 1111     |
+| *Biddulphia*                | 1451    | 836     | 615      |
+| *Melosira*                  | 1413    | 675     | 738      |
+| *Guinardia*                 | 1371    | 439     | 932      |
+| *Ceratium*                  | 1257    | 439     | 818      |
+| *Cymatosira*                | 1154    | 955     | 199      |
+| *Protoperidinium*           | 914     | 396     | 518      |
+| *Plaurosigma*               | 889     | 65      | 824      |
+| *Bacteriastrum*             | 875     | 245     | 630      |
+| *Nitzschia*                 | 546     | 230     | 316      |
+| *Oscillatoria*              | 485     | 140     | 345      |
+| *Paralia*                   | 435     | 0       | 435      |
+| *Leptocylindrus*            | 367     | 39      | 328      |
+| *Eucampia*                  | 356     | 77      | 279      |
+| *Triceratium*               | 346     | 242     | 104      |
+| *Anabaena*                  | 251     | 42      | 209      |
+| *Peridinium*                | 160     | 0       | 160      |
+| *Dinophysis*                | 155     | 47      | 108      |
+| *Hemidiscus*                | 149     | 39      | 110      |
+| *Gonyaulax*                 | 127     | 127     | 0        |
+| cf. *Dityocha*              | 120     | 61      | 59       |
+| *Dactyliosolen*             | 119     | 0       | 119      |
+| cf. *Alexandrium*           | 89      | 44      | 45       |
+| *Alexandrium*               | 82      | 0       | 82       |
+| *Protoceratium*             | 55      | 14      | 41       |
+| *Pyrocistis cf. Noctiluca*  | 40      | 40      | 0        |
+| *Chromista*                 | 31      | 0       | 31       |
+| *Plagiotropis*              | 23      | 0       | 23       |
+| *Blepharocysta*             | 22      | 0       | 0        |
+| *cf. Plagiotropis*          | 22      | 22      | 0        |
+| *Phalacroma*                | 21      | 0       | 21       |
+| *Neocalyptrella*            | 20      | 20      | 0        |
+| *Ornithocercus*             | 14      | 14      | 0        |

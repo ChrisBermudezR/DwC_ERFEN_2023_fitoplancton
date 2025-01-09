@@ -18,7 +18,7 @@ Datos_Colecta$eventTime <- format(Datos_Colecta$eventTime, "%H:%M:%S")
 
 #parentEventID####
 
-parentEventID<-as.data.frame(rep("DIMAR:CCCP:ERFEN:2023", time=113))
+parentEventID<-as.data.frame(rep("DIMAR:CCCP:ERFEN:2023", time=117))
 colnames(parentEventID)="parentEventID"
 
 #eventID####
@@ -27,20 +27,20 @@ eventID<-as.data.frame(paste0("DIMAR:CCCP:ERFEN:2023:",Datos_Colecta$fieldNumber
 colnames(eventID)="eventID"
 
 #samplingProtocol####
-samplingProtocol<-as.data.frame(rep("Botella Niskin", time=113))
+samplingProtocol<-as.data.frame(rep("Botella Niskin", time=117))
 colnames(samplingProtocol)="samplingProtocol"
   
 #sampleSizeValue####  
-sampleSizeValue<-as.data.frame(rep("1 L", time=113))
+sampleSizeValue<-as.data.frame(rep("1 L", time=117))
 colnames(sampleSizeValue)="sampleSizeValue"
 
 #sampleSizeUnit ####
-sampleSizeUnit<-as.data.frame(rep("L", time=113))
+sampleSizeUnit<-as.data.frame(rep("L", time=117))
 colnames(sampleSizeUnit)="sampleSizeUnit"
 
 #samplingEffort ####
 
-samplingEffort<-as.data.frame(rep("113 muestras de un litro", time=113))
+samplingEffort<-as.data.frame(rep("113 muestras de un litro", time=117))
 colnames(samplingEffort)="samplingEffort"
 
 #eventDate####
@@ -48,7 +48,7 @@ eventDate<-as.data.frame(Datos_Colecta$eventDate)
 colnames(eventDate)<-"eventDate"
 
 #year
-year<-as.data.frame(rep("2023", time=113))
+year<-as.data.frame(rep("2023", time=117))
 colnames(year)="year"
 
 
@@ -63,7 +63,7 @@ colnames(day)="day"
 
 
 #institutionCode
-institutionCode<-as.data.frame(rep("Dirección General Marítima (DIMAR)", time=113))
+institutionCode<-as.data.frame(rep("Dirección General Marítima (DIMAR)", time=117))
 colnames(institutionCode)="institutionCode"
 
 #eventTime###
@@ -71,7 +71,7 @@ eventTime<-as.data.frame(Datos_Colecta$eventTime)
 colnames(eventTime)<-"eventTime"
 
 #habitat####
-habitat<-as.data.frame(rep("Zona Pelágica", time=113))
+habitat<-as.data.frame(rep("Zona Pelágica", time=117))
 colnames(habitat)<-"habitat"
 
 #fieldNumber####
@@ -84,67 +84,67 @@ eventRemarks<-as.data.frame(paste0("La estación de muestra fue la ", Datos_Cole
 colnames(eventRemarks)="eventRemarks"
 
 #type####
-type<-as.data.frame(rep("Event", time=113))
+type<-as.data.frame(rep("Event", time=117))
 colnames(type)<-"type"
 
 #institutionCode####
-institutionID<-as.data.frame(rep("830.027.904-1", time=113))
+institutionID<-as.data.frame(rep("830.027.904-1", time=117))
 colnames(institutionID)<-"institutionID"
 
 #datasetName####
 
-datasetName<-as.data.frame(rep("Fitoplancton del Crucero Oceanográfico Cuenca Pacífica Colombiana LXIII / XXVI Crucero Regional Conjunto CPPS", time=113))
+datasetName<-as.data.frame(rep("Fitoplancton del Crucero Oceanográfico Cuenca Pacífica Colombiana LXIII / XXVI Crucero Regional Conjunto CPPS", time=117))
 colnames(datasetName)<-"datasetName"
 
 #datasetID####
-datasetID<-as.data.frame(rep("cecoldo.iden_09ef25db-2917-44ae-b3eb-d2266f0fad3e", time=113))
+datasetID<-as.data.frame(rep("cecoldo.iden_09ef25db-2917-44ae-b3eb-d2266f0fad3e", time=117))
 colnames(datasetID)<-"datasetID"
 
 #language####
-language<-as.data.frame(rep("es", time=113))
+language<-as.data.frame(rep("es", time=117))
 colnames(language)<-"language"
 
 #rightsHolder####
-rightsHolder<-as.data.frame(rep("Dirección General Marítima (DIMAR)", time=113))
+rightsHolder<-as.data.frame(rep("Dirección General Marítima (DIMAR)", time=117))
 colnames(rightsHolder)="rightsHolder"
 
 #references####
-references<-as.data.frame(rep("https://cecoldo.dimar.mil.co/geonetwork/srv/spa/catalog.search#/metadata/09ef25db-2917-44ae-b3eb-d2266f0fad3e", time=113))
+references<-as.data.frame(rep("https://cecoldo.dimar.mil.co/geonetwork/srv/spa/catalog.search#/metadata/09ef25db-2917-44ae-b3eb-d2266f0fad3e", time=117))
 colnames(references)="references"
 
 #locationID####
-locationID<-as.data.frame(rep("http://marineregions.org/mrgid/21972", time=113))
+locationID<-as.data.frame(rep("http://marineregions.org/mrgid/21972", time=117))
 colnames(locationID)="locationID"
 
 #higherGeography####
-higherGeography<-as.data.frame(rep("América | Sudamérica | Colombia | Región del Pacífico", time=113))
+higherGeography<-as.data.frame(rep("América | Sudamérica | Colombia | Región del Pacífico", time=117))
 colnames(higherGeography)="higherGeography"
 
 #continent####
-continent<-as.data.frame(rep("América del Sur", time=113))
+continent<-as.data.frame(rep("América del Sur", time=117))
 colnames(continent)="continent"
 
 #waterBody####
 
-waterBody<-as.data.frame(rep("Océano Pacífico", time=113))
+waterBody<-as.data.frame(rep("Océano Pacífico", time=117))
 colnames(waterBody)="waterBody"
 
 #country####
-country<-as.data.frame(rep("Colombia", time=113))
+country<-as.data.frame(rep("Colombia", time=117))
 colnames(country)="country"
 
 #countryCode####
-countryCode<-as.data.frame(rep("CO", time=113))
+countryCode<-as.data.frame(rep("CO", time=117))
 colnames(countryCode)="countryCode"
 
 #locality####
 
-locality<-as.data.frame(rep("Cuenca Pacífica Colombiana", time=113))
+locality<-as.data.frame(rep("Cuenca Pacífica Colombiana", time=117))
 colnames(locality)="locality"
 
 #minimumDepthInMeters####
 
-minimumDepthInMeters<-as.data.frame(rep("0", time=113))
+minimumDepthInMeters<-as.data.frame(rep("0", time=117))
 colnames(minimumDepthInMeters)="minimumDepthInMeters"
 
 
@@ -163,11 +163,11 @@ decimalLongitude<-as.data.frame(Datos_Colecta$decimalLongitude)
 colnames(decimalLongitude)="decimalLongitude"
 
 #geodeticDatum####
-geodeticDatum<-as.data.frame(rep("WGS84", time=113))
+geodeticDatum<-as.data.frame(rep("WGS84", time=117))
 colnames(geodeticDatum)="geodeticDatum"
 
 #georeferencedBy####
-georeferencedBy<-as.data.frame(rep("Laura Carolina Ortiz Mieles ", time=113))
+georeferencedBy<-as.data.frame(rep("Laura Carolina Ortiz Mieles ", time=117))
 colnames(georeferencedBy)="georeferencedBy"
 
 #Unión Final####
